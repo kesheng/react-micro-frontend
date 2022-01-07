@@ -12,7 +12,7 @@
 	url = git@github.com:kesheng/rmf-root-config
 [submodule "people"]
 	path = people
-	url = git@github.com:kesheng/rmf-root-people
+	url = git@github.com:kesheng/rmf-people
 [submodule "planets"]
 	path = planets
-	url = git@github.com:kesheng/rmf-root-planets
+	url = git@github.com:kesheng/rmf-planets
