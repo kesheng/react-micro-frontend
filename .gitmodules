@@ -1,0 +1,18 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:kesheng/rmf-api
+[submodule "components"]
+	path = components
+	url = git@github.com:kesheng/rmf-components
+[submodule "navbar"]
+	path = navbar
+	url = git@github.com:kesheng/rmf-navbar
+[submodule "root-config"]
+	path = root-config
+	url = git@github.com:kesheng/rmf-root-config
+[submodule "people"]
+	path = people
+	url = git@github.com:kesheng/rmf-root-people
+[submodule "planets"]
+	path = planets
+	url = git@github.com:kesheng/rmf-root-planets
